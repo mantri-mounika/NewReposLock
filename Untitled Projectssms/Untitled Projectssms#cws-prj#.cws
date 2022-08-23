@@ -5,8 +5,8 @@
 	typeVersion="0019B980-5ADC-71DF-9C5A-1C9DE0779704"
 	RuntimeDocumentID="48F17F44-149C-A1ED-87AD-728F2DA58024">
 	<DocumentID>48F17F44-149C-A1ED-87AD-728F2DA54024</DocumentID>
-	<Name>Untitled Projectssm</Name>
-	<Description>Untitled Projectssm</Description>
+	<Name>Untitled Projectssms</Name>
+	<Description>Untitled Projectssms</Description>
 	<CreatedBy>sysadmin</CreatedBy>
 	<CreationDate>2022-08-19T08:56:25.408</CreationDate>
 	<Notes/>
@@ -44,7 +44,7 @@
 	<SourceFolder>
 		<uri
 			id="48F17F44-149C-A1ED-87AD-728F2DA4C024"
-			path="Untitled Projectssm"
+			path="Untitled Projectssms"
 			type="com.cordys.cws.runtime.types.folder.StudioFolder"
 		/>
 	</SourceFolder>
@@ -74,7 +74,7 @@
 					<Texts>
 						<uri
 							id="48F17F44-149C-A1ED-87AD-728F2DA20024"
-							path="Untitled Projectssm/en-US_48F17F44-149C-A1ED-87AD-728F2DA20024"
+							path="Untitled Projectssms/en-US_48F17F44-149C-A1ED-87AD-728F2DA20024"
 							type="com.cordys.cws.associations.MergeableAssociation"
 						/>
 					</Texts>
@@ -93,7 +93,7 @@
 			<Texts>
 				<uri
 					id="48F17F44-149C-A1ED-87AD-728F2DA30024"
-					path="Untitled Projectssm/TranslationInformation_48F17F44-149C-A1ED-87AD-728F2DA30024"
+					path="Untitled Projectssms/TranslationInformation_48F17F44-149C-A1ED-87AD-728F2DA30024"
 					type="com.cordys.cws.associations.MergeableAssociation"
 				/>
 			</Texts>
